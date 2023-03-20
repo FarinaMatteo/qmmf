@@ -32,4 +32,4 @@ The datasets we used for our paper are linked here:
 Details on the parameter settings can be found in the Supplementary Material of our paper, containing information on the number of sampled models and the used inlier thresholds, too.  
 
 ## Acknowledgements  
-This paper is supported by FAIR (Future Artificial Intelligence Research) project, funded by the NextGenerationEU program within the PNRR-PE-AI scheme (M4C2, Investment 1.3, Line on Artificial Intelligence).
+This paper is supported by FAIR (Future Artificial Intelligence Research) project, funded by the NextGenerationEU program within the PNRR-PE-AI scheme (M4C2, Investment 1.3, Line on Artificial Intelligence). This work was partially supported by the PRIN project LEGO-AI (Prot. 2020TA3K9N) and it was carried out in the Vision and Learning joint laboratory of FBK and UNITN.
