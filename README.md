@@ -3,8 +3,16 @@ Official repository for the paper "Quantum Multi-Model Fitting", published at CV
 Authors: Matteo Farina, [Luca Magri](https://scholar.google.com/citations?user=dF3qKXMAAAAJ&hl=it&oi=ao), [Willi Menapace](https://scholar.google.com/citations?hl=it&user=31ha1LgAAAAJ), [Elisa Ricci](https://scholar.google.com/citations?hl=it&user=xf1T870AAAAJ), [Vladislav Golyanik](https://scholar.google.com/citations?hl=it&user=we9LnVcAAAAJ) and [Federica Arrigoni](https://scholar.google.com/citations?hl=it&user=bzBtqfQAAAAJ).  
 
 ## References  
-If you use this code, or you find some of this repository helpful, please cite **INSERT BIBTEX WHEN AVAILABLE**.
-  
+If you use this code, or you find some of this repository helpful, please cite:
+```
+@inproceedings{Farina2023quantum, 
+title={Quantum Multi-Model Fitting}, 
+author={Matteo Farina and Luca Magri and Willi Menapace and Elisa Ricci and Vladislav Golyanik and Federica Arrigoni}, 
+booktitle={Computer Vision and Pattern Recognition (CVPR)}, 
+year={2023} 
+}
+```
+
 ## Installation
 This code has been tested under Ubuntu 18.04, 20.04 and 22.04 through a Miniconda virtual environment.
 To install all the dependencies to run the demo script ```demo.py``` with a CPU, run:  
